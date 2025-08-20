@@ -1,2 +1,5 @@
 streamlit
-sklearn
+scikit-learn
+numpy
+pandas
+pickle-mixin
